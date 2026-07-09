@@ -1,3 +1,4 @@
+#using 2 pointers
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         res = []
@@ -13,3 +14,12 @@ class Solution:
                 r -= 1
 
         return res[::-1]
+
+# using simple method
+class Solution:
+    def sortedSquares(self, nums: List[int]) -> List[int]:
+        for i in range(len(nums)):
+            nums[i] = nums[i] ** 2
+
+        nums.sort()
+        return nums
