@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anil34k/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/anil34k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/anil34k/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,8 +15,10 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anil34k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/anil34k/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anil34k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/anil34k/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
