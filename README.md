@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/anil34k/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anil34k/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anil34k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/anil34k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/anil34k/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anil34k/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -38,4 +39,16 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anil34k/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anil34k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anil34k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anil34k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
