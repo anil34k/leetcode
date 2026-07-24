@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anil34k/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anil34k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anil34k/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/anil34k/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anil34k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anil34k/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/anil34k/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/anil34k/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
