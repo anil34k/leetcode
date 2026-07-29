@@ -1,5 +1,5 @@
-class Solution:
-    def isPalindrome(self, s: str) -> bool:
+class Solution(object):
+    def isPalindrome(self, s):
         left = 0
         right = len(s) - 1
 
