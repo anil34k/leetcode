@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anil34k/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anil34k/leetcode/tree/master/0125-valid-palindrome) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anil34k/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anil34k/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anil34k/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
