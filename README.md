@@ -69,4 +69,8 @@
 | ------- |
 | [0620-not-boring-movies](https://github.com/anil34k/leetcode/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anil34k/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/anil34k/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
