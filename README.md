@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anil34k/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/anil34k/leetcode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/anil34k/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,12 +33,14 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anil34k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/anil34k/leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/anil34k/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anil34k/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anil34k/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/anil34k/leetcode/tree/master/0242-valid-anagram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anil34k/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
